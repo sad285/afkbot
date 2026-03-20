@@ -37,8 +37,8 @@
       "messages": [
         "صباح خير",
         "مساء نور",
-        "تصباح علي خير"},
-
+        "تصباح على خير"
+      ],
     "chat-log": true,
     "auto-reconnect": true,
     "auto-recconect-delay": 5000
