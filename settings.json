@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "CHABOT", 
+    "username": "ZOZO_BUTBOT", 
     "password": "",
     "type": "offline"
   },
@@ -35,11 +35,9 @@
       "repeat-delay": 60,
 
       "messages": [
-        "انا شاحد اريد مال اد عندك يافقير",
-        "انا احب مملكة RGp",
-        "ياخي ملل تاع نلعب سو بس انا بوت نسيت كمل
-      ]
-    },
+        "صباح خير",
+        "مساء نور",
+        "تصباح علي خير"},
 
     "chat-log": true,
     "auto-reconnect": true,
